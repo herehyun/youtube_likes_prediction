@@ -1,6 +1,8 @@
 # 주제 및 목표
 머신러닝을 이용한 유투브 좋아요 수 예측
 
+# 데이터 출처
+https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 
 # 기획의도 및 배경
 
